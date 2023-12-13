@@ -31,7 +31,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-What time is, is a page where you can see the time on your computer, and according to each time, the photo and background color change
+This page that detects your age from your year of birth, showing an image representing your age
 
 
 ## :memo: License
